@@ -66,3 +66,6 @@ for filepath in list_of_files:
 # and also related to ci/cd stuff
 # logic for folder structure generation
 # constructor file is needed because we need to install that src stuff as a local package 
+
+# whenever we are creating a new project do create a virtual enviorment first
+
